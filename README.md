@@ -18,8 +18,8 @@ dsl.rules([
 ```
 ## Exercício de avaliação
 Utilizando o exemplo de abstração acima do Jogo da Vida, crie uma abstração de um modelo
-de predador e presa. Instancie a classe, defina as constantes de operadores, estados e 
-vizinhança e declare a lista de regras. 
+de predador e presa. No código dsl.js instancie a classe, defina as constantes de operadores, estados e 
+vizinhança e declare a lista de regras. Use os programas em processing como base se preciso.
 
 (Requerimentos: node instalado) 
 Para executar: 
